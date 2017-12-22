@@ -12,7 +12,7 @@ Local scan is extensive tool for scanning and discovering local network. For exa
 To install the latest development version type the following commands:
 
 ```bash
-git clonehttps://github.com/pioneerhfy/LocalScan # Download the latest revision
+git clone https://github.com/pioneerhfy/LocalScan # Download the latest revision
 cd LocalScan # Switch to tool's directory
 sudo pip install -r requirements.txt
 sudo pip install python-geoip
