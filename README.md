@@ -1,7 +1,7 @@
 # LocalScan 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-2-yellow.svg"> <img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
+<img src="https://img.shields.io/badge/Python-2-yellow.svg"> <img src="https://img.shields.io/npm/l/express.svg"></a>
 
 This local scan tool was designed to scan and discover your local network.
 
