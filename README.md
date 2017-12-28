@@ -39,6 +39,7 @@ sudo python localscan.py -c 100
 ## Images
 
 <p align="center"><img src="https://github.com/pioneerhfy/LocalScan/blob/master/localscan.png" width="660" height="325"></p>
+<p align="center"><img src="https://github.com/pioneerhfy/LocalScan/blob/master/report.png" width="660" height="325"></p>
 
 ## Built With
 
